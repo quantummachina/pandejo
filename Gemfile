@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.14'
 
 gem 'ninsho'
+gem 'omniauth-facebook'
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
